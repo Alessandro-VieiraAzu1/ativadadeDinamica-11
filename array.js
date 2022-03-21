@@ -1,0 +1,1 @@
+let lista = ['pão','bola','bolacha']
