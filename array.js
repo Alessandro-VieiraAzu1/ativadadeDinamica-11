@@ -1,1 +1,2 @@
-let lista = ['pão','bola','bolacha']
+let lista = ['pão','bola','bola']
+console.log("alessandro")
